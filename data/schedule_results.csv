@@ -1,0 +1,13 @@
+aircraft_id,aircraft_type,base_airport,flight_intensity,due_status,due_day,start_day,duration,end_day,start_date,end_date,delay_days,cancelled_flights_during_maintenance,scheduled_flag,unscheduled_flag
+TC-1001,B737-MAX,ESB,heavy,overdue,1,1,3,3,2026-01-01,2026-01-03,0,8,1,0
+TC-1005,A320,SAW,heavy,due_soon,1,1,2,2,2026-01-01,2026-01-02,0,7,1,0
+TC-1002,B737-MAX,AYT,normal,due_soon,2,3,2,4,2026-01-03,2026-01-04,1,2,1,0
+TC-1004,B737-800,ADB,normal,overdue,1,3,2,4,2026-01-03,2026-01-04,2,3,1,0
+TC-1003,A321,IST,heavy,due_soon,1,5,4,8,2026-01-05,2026-01-08,4,14,1,0
+TC-1000,A320,AYT,heavy,due_soon,6,6,3,8,2026-01-06,2026-01-08,0,11,1,0
+TC-1010,B737-MAX,IST,normal,not_due,21,9,2,10,2026-01-09,2026-01-10,0,1,1,0
+TC-1011,A321,ADB,heavy,not_due,22,11,4,14,2026-01-11,2026-01-14,0,10,1,0
+TC-1007,B737-MAX,AYT,light,not_due,16,12,3,14,2026-01-12,2026-01-14,0,2,1,0
+TC-1006,B737-MAX,ESB,heavy,not_due,13,14,4,17,2026-01-14,2026-01-17,1,14,1,0
+TC-1009,A330,ADB,normal,not_due,20,18,4,21,2026-01-18,2026-01-21,0,7,1,0
+TC-1008,B737-800,IST,normal,not_due,23,23,4,26,2026-01-23,2026-01-26,0,5,1,0

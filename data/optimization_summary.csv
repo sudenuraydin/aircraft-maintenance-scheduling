@@ -1,0 +1,9 @@
+metric,value
+objective_value,124.0
+total_cancelled_flights,84.0
+total_delay_days,8.0
+unscheduled_required,0
+capacity_overflow,0.0
+number_of_scheduled_maintenances,12
+solver_status,ok
+termination_condition,optimal
